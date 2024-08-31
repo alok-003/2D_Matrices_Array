@@ -1,5 +1,5 @@
 #2D Arrays Matrices
-E#xperiment 8
+#xperiment 8
 
 #AIM
 To study and implement 2 Dimensional arrays in C++
